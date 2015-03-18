@@ -1,3 +1,6 @@
+//Animated Hummingbird
+//Amruta Buge (http://amrutabuge.com)
+//Paste the code in Processing (Java)
 
 void setup(){
   size(450,600);
